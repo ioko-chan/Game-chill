@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: off
+  m_Name: off_go_lefft
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,6 +20,10 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
+      value: {fileID: -492108948, guid: 42ca866f56abb23498cdd6e9e7428619, type: 3}
+    - time: 0.25
+      value: {fileID: -1012212563, guid: 42ca866f56abb23498cdd6e9e7428619, type: 3}
+    - time: 0.53333336
       value: {fileID: -492108948, guid: 42ca866f56abb23498cdd6e9e7428619, type: 3}
     attribute: m_Sprite
     path: 
@@ -41,12 +45,14 @@ AnimationClip:
       isPPtrCurve: 1
     pptrCurveMapping:
     - {fileID: -492108948, guid: 42ca866f56abb23498cdd6e9e7428619, type: 3}
+    - {fileID: -1012212563, guid: 42ca866f56abb23498cdd6e9e7428619, type: 3}
+    - {fileID: -492108948, guid: 42ca866f56abb23498cdd6e9e7428619, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.016666668
+    m_StopTime: 0.55
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
