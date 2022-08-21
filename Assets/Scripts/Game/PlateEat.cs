@@ -60,7 +60,7 @@ namespace Game
         }
 
         private void OnMouseEnter()
-        {
+        {// лисэнеры переделать для интерфейса еды и в интерфейсе свое поведение сделать
             if (!_drugMouseEat && !_isEatInPlate && _eatOnMouse)
             {
                 Instantiate(_inPlate);
